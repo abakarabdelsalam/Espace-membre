@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(default/images/insset_upvj.jpg);
+    background-repeat: initial;
+}
+
+#content {
+    width: 960px;
+    background: rgb(226, 226, 216);
+    opacity: 0.9;
+    margin: 50px auto;
+    border-radius: 10px;
+    /*text-align: center;*/
+    position: relative;
+}
+
+#content h1 {
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+#content form label {
+    display: block;
+    float: left;
+    width: 200px;
+    position: absolute;
+    left: 100px;
+}
+
+#content form input,
+textarea {
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 200px;
+    margin: 7px;
+}
+
+#content form input[type=submit] {
+    width: 100px;
+    background: rgb(226, 226, 216);
+    opacity: 0.8;
+    color: #000;
+    cursor: pointer;
+}
+
+#content form button[type=submit] {
+    width: 100px;
+    background-color: #000;
+    color: #FFF;
+    cursor: pointer;
+}
+
+#content .menu {
+    height: 35px;
+    line-height: 1.5em;
+    background: rgb(226, 226, 216);
+    opacity: 0.8;
+    border: 1px solid #000;
+}
+
+#content .menu ul li {
+    float: left;
+    list-style: none;
+    line-height: 36px;
+    border-left: 1px solid #000;
+}
+
+#content .menu ul li a {
+    color: #000;
+    text-decoration: none;
+    padding: 25px;
+}
+
+#content .header {
+    text-align: right;
+    margin-right: 5px;
+}
+
+#content .rep {
+    color: blue;
+    text-decoration: underline;
+}
