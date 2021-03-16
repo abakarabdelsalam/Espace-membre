@@ -13,3 +13,5 @@ Un membre peut indiquer quelles compétences il possède ainsi que le niveau
 (junior, expert…).
 Un membre peut par ailleurs être recommandé sur une compétence donnée
 par un autre membre.
+
+Lien du Diapo : https://prezi.com/view/sSDFL3Ijo9pmqmG8d92O/
