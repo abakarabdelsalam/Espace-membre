@@ -7,12 +7,15 @@ $connexion = connexionMYSQL();
 
 ?>
 
+
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Modifications du profil</title>
     <link rel='stylesheet' href='style4.css'>
 </head>
+
 <body>
     <div id="content">
         <header>
